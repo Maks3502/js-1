@@ -1,0 +1,10 @@
+const number = 2;
+console.log(number);
+const myName = "Anastasia";
+console.log(myName);
+const wordsLangs = myName.length;
+console.log(wordsLangs);
+const hobby = "Настя дуже любить читати книги, та малювати";
+console.log(hobby);
+const hobbyLangs = hobby.length;
+console.log(hobbyLangs);

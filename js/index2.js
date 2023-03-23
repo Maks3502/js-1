@@ -1,0 +1,10 @@
+let number = 3;
+console.log(number);
+let myName = "Taras";
+console.log(myName);
+let letersLangs = myName.length;
+console.log(letersLangs);
+let traina = "Тарас хоче стати футболистом,";
+console.log(traina);
+let trainaLangs = traina.length;
+console.log(trainaLangs);
